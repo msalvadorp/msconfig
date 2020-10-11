@@ -1,0 +1,6 @@
+Value1: some-Development
+Value2: another-Development
+galaxy:
+  usuario: sistemas
+  clave: 123
+  red: local
