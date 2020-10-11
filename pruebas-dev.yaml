@@ -1,0 +1,6 @@
+Value1: some-valdev
+Value2: another-valdev
+galaxy:
+  usuario: sistemas
+  clave: 123
+  red: local
